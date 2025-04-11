@@ -1,4 +1,4 @@
-![Banner Image]([https://your-image-link.com/banner.png](https://github.com/SaniyaGapchup/SaniyaGapchup/blob/main/saniya.png)
+![Banner Image](https://github.com/SaniyaGapchup/SaniyaGapchup/blob/main/saniya.png)
 
 <h1 align="center">Hi 👋, I'm Saniya Gapchup</h1>
 <h3 align="center">Software Developer | AI & ML Enthusiast | Leader</h3>
