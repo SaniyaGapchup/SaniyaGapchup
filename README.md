@@ -24,6 +24,7 @@
 
 ## 💼 Work Experience
 - **American Campus Communities, Austin, Texas**
+
   *Software Development Intern / June 2025 - August 2025*
   - Spearheaded a generative AI integration project with the Onyx.ai platform to enable natural language querying across ACC’s
     data ecosystem, including Lease Up, Occupancy, Rental Rates, Property Domain, Financials (Actuals, Budget, Forecast), and
