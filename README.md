@@ -40,7 +40,7 @@
   - Collaborated with cross-functional teams to deliver scalable technical solutions.
 
 - **NEO, India**  
-  *Artificial Intelligence Intern | July 2022 - August 2022*  
+  *Artificial Intelligence Intern | July 2022 - August 2022*   
   - Built an AI-based language translation model using advanced machine learning and NLP techniques.
   - Presented key insights and performance metrics to non-technical stakeholders, turning complex information into actionable business decisions.
 
