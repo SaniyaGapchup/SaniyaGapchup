@@ -23,6 +23,16 @@
 ---
 
 ## 💼 Work Experience
+- **American Campus Communities, Austin, Texas**
+  *Software Development Intern / June 2025 - August 2025*
+  - Spearheaded a generative AI integration project with the Onyx.ai platform to enable natural language querying across ACC’s
+    data ecosystem, including Lease Up, Occupancy, Rental Rates, Property Domain, Financials (Actuals, Budget, Forecast), and
+    Market Rate data.
+  - Engineered prompt pipelines to interpret staff queries and return contextual insights from structured datasets, with future
+    scalability for Google Analytics and broader data lake ingestion.
+  - Focused on enhancing operational efficiency by translating business questions into AI-driven answers, bridging the gap
+    between technical data infrastructure and everyday decision-making across ACC teams.
+    
 - **Cummins Inc, India**  
   *Software Development Intern | June 2023 - January 2024*  
   - Developed a Python-based GUI using Tkinter to streamline data entry and management.
